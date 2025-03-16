@@ -1,0 +1,23 @@
+{
+  "slug": "02-basic-oscillator",
+  "name": "02-basic-oscillator",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "MMN",
+  "author": "",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "02-basic-oscillator",
+      "name": "02-basic-oscillator",
+      "description": "Creates a sine wave with a frequency.",
+      "tags": []
+    }
+  ]
+}
